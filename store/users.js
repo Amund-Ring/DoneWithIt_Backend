@@ -10,7 +10,7 @@ const users = [
     name: "John",
     email: "john@domain.com",
     password: "12345",
-  },
+  }
 ];
 
 const getUsers = () => users;
