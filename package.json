@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "12.6.x"
+    "node": "14.17.5"
   },
   "keywords": [],
   "author": "Amund Ring",
